@@ -46,7 +46,7 @@ h1 {
 
 /*Game grid display*/
 .game-container {
-    margin: 100px auto;
+    margin: 50px auto;
     background-color: lightgrey;
     padding: 0px 10px;
     max-width: 50%;
